@@ -1,11 +1,11 @@
 # Poliklinik
-Projek web poliklinik. Saya membangun ini dari projekan ayah saya untuk membantu dalam membuat projek web rumah sakit. Masih banyak hal yang perlu di perbaiki, namun selebihnya ayah saya yang ngurus lebih lanjut dalam hal ini. Projek ini di bangun dengan PHP, Jquery AJAX dan Mysql. Untuk tampilan web saya menggunakan framework bootstrap agar responsive.
+Projek web poliklinik. Saya membangun ini dari projekan ayah saya untuk membantu dalam membuat projek web rumah sakit. Masih banyak hal yang perlu di perbaiki, namun selebihnya ayah saya yang ngurus lebih lanjut dalam hal ini.
 
 # Tangkapan Layar
-![Screenshot (278)](https://user-images.githubusercontent.com/83481679/214211951-1784bbe0-45ff-4970-a39d-eeb0f0140864.png)
+![Screenshot (547)](https://github.com/galihap76/poliklinik/assets/83481679/5ea815b0-62d7-4d9f-be6d-928636ccac07)
 
-![Screenshot (279)](https://user-images.githubusercontent.com/83481679/214211953-3ec5d27e-8641-4a60-9d7a-fd0aeb2cb95b.png)
+![Screenshot (548)](https://github.com/galihap76/poliklinik/assets/83481679/ace56105-5d7e-4008-ac99-fe00c676c1b2)
 
-![Screenshot (280)](https://user-images.githubusercontent.com/83481679/214211956-e56d931b-f372-460b-8ea4-e41947a0244d.png)
+![Screenshot (549)](https://github.com/galihap76/poliklinik/assets/83481679/cc9bf815-315b-49b6-9c2f-71599bac5e00)
 
 Saya taruh di sini sebagai portfolio projek.
