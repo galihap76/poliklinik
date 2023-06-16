@@ -1,5 +1,10 @@
 # Poliklinik
-Projek web poliklinik. Saya membangun ini dari projekan ayah saya untuk membantu dalam membuat projek web rumah sakit. Masih banyak hal yang perlu di perbaiki, namun selebihnya ayah saya yang ngurus lebih lanjut dalam hal ini.
+Web aplikasi poliklinik. Saya membangun ini dari projekan ayah saya untuk membantu dalam membuat projek web aplikasi rumah sakit. Masih banyak hal yang perlu di perbaiki, namun selebihnya ayah saya yang ngurus lebih lanjut dalam hal ini.
+
+# Fitur 
+- Otomatis memilih nama dokter berdasarkan nama poli
+- Check dan menampilkan data pasien berdasarkan sesuai nama dokter yang terpilih
+- Simpan tangkapan layar form pemeriksaan (SOAP) untuk pasien
 
 # Tangkapan Layar
 ![Screenshot (547)](https://github.com/galihap76/poliklinik/assets/83481679/5ea815b0-62d7-4d9f-be6d-928636ccac07)
