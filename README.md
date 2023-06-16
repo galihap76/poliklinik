@@ -1,5 +1,5 @@
 # Poliklinik
-Web aplikasi poliklinik. Saya membangun ini dari projekan ayah saya untuk membantu dalam membuat projek web aplikasi rumah sakit. Masih banyak hal yang perlu di perbaiki, namun selebihnya ayah saya yang ngurus lebih lanjut dalam hal ini.
+Web aplikasi poliklinik. Saya membangun ini dari projekan ayah saya untuk membantu dalam membuat projek web aplikasi rumah sakit. Masih banyak hal yang perlu di perbaiki, namun selebihnya ayah saya yang mengurus lebih lanjut dalam hal ini.
 
 # Fitur 
 - Otomatis memilih nama dokter berdasarkan nama poli
