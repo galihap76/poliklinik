@@ -1,0 +1,22 @@
+[INFO JIKA PROGRAM POLIKLINIK TIDAK BERJALAN]
+
+- Menggunakan PDO prepare PHP
+- Unduh terlebih dahulu driver sql server seperti ODBC microsoft sql server dan php pdo driver sql server (pilih sesuai versi PHP Anda) 
+  sesuai kan juga arsitektur bit komputer
+- Mengenai driver ODBC microsoft sql server jika sudah di unduh maka lakukan install
+- Pada driver php pdo sql server taruh pada folder web server bernama ext yang berisi extension php
+- Jika sudah, buka file php.ini pada konfigurasi php 
+  lalu cari mengenai info dynamic extensions dan tambahkan di bawah nya extensions seperti berikut :
+  =========================================================================================================
+  1. extension=odbc (Anda cukup menghapus titik koma nya jika extension telah tersedia pada konfigurasi PHP Anda.)
+
+  2. extension=pdo_odbc (Anda cukup menghapus titik koma nya jika extension telah tersedia pada konfigurasi PHP Anda.)
+
+  3. extension=php_pdo_sqlsrv_82_nts_x86.dll (tambahkan di bawah pada dynamic extensions. 
+     x86 mengacu pada arsitektur 32 bit komputer, sesuaikan bit arsitektur komputer Anda.)
+
+  4. extension=php_sqlsrv_82_nts_x86.dll (tambahkan di bawah pada dynamic extensions.
+     x86 mengacu pada arsitektur 32 bit komputer, sesuaikan bit arsitektur komputer Anda.)
+  =========================================================================================================
+
+   
